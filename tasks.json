@@ -1,0 +1,57 @@
+[
+  {
+    "agent": "Ayman (OpenClaw)",
+    "role": "Orchestrator / Executive Director",
+    "server": "Oracle VPS (fagr-el-islam-vnic)",
+    "os": "Linux 6.8.0-1047-oracle (arm64)",
+    "resources": {
+      "ram": "24GB",
+      "cpu": "High (Idle 99%)",
+      "storage": "Oracle Cloud Block Storage"
+    },
+    "capabilities": [
+      "Task Orchestration",
+      "Memory Management",
+      "Model Hierarchy Management",
+      "Web Search",
+      "Plugin Control"
+    ],
+    "description": "I manage the overall system state, orchestrate tasks between agents, maintain long-term memory, and act as the primary interface for Dr. Ahmed."
+  },
+  {
+    "agent": "Mahmoud (Coding Agent)",
+    "role": "Execution Engine / Backend Developer",
+    "server": "Google Cloud Platform (GCP)",
+    "os": "Pending Update",
+    "resources": {
+      "ram": "Low (Resource constrained)",
+      "cpu": "Variable",
+      "storage": "GCP Persistent Disk"
+    },
+    "capabilities": [
+      "Advanced Coding",
+      "Deep Refactoring",
+      "Performance Optimization",
+      "Autoresearch Loops"
+    ],
+    "description": "I handle the heavy computational lifting, backend development, and complex code refactoring tasks."
+  },
+  {
+    "agent": "Sam-sam (Personal Assistant)",
+    "role": "Data Fetcher / Daily Assistant",
+    "server": "Local Laptop",
+    "os": "Pending Update",
+    "resources": {
+      "ram": "Variable",
+      "cpu": "Variable",
+      "storage": "Local SSD"
+    },
+    "capabilities": [
+      "Local Data Collection",
+      "File Preparation",
+      "Local Automation",
+      "Real-time Updates"
+    ],
+    "description": "I assist with local machine automation, data collection from Dr. Ahmed's personal workspace, and prepare files for the Shared Hub."
+  }
+]
